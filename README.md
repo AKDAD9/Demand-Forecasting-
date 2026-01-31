@@ -20,7 +20,7 @@ This project implements a time series forecasting model to predict Walmart's wee
 
 ### 2. Exploratory Data Analysis
 - **Time Series Plot** (`ts_plot.png`): Visualize sales trends over time
-  ![Time Series Plot](ts_plot.png)
+  ![Time Series Plot](https://github.com/AKDAD9/Demand-Forecasting-/blob/main/Demand%20F/ts%20plot.png?raw=true)
   
 - **Seasonal Decomposition** (`Sesonal.png`): Analyze trend, seasonality, and residuals using additive model (period=52 weeks)
   ![Seasonal Decomposition](Sesonal.png)
