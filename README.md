@@ -29,7 +29,7 @@ This project implements a time series forecasting model to predict Walmart's wee
 
 ### 3. Model Diagnostics
 - **Autocorrelation Function (ACF)** (`ACF.png`): Shows correlation between observations at different time lags
-  ![ACF Plot](ACF.png)
+  ![ACF Plot](https://github.com/AKDAD9/Demand-Forecasting-/blob/main/Demand%20F/ACF.png?raw=true)
   
 - **Partial Autocorrelation Function (PACF)** (`PACF.png`): Shows correlation after removing intermediate observations
   ![PACF Plot](PACF.png)
