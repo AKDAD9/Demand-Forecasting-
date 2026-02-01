@@ -23,7 +23,7 @@ This project implements a time series forecasting model to predict Walmart's wee
   ![Time Series Plot](https://github.com/AKDAD9/Demand-Forecasting-/blob/main/Demand%20F/ts%20plot.png?raw=true)
   
 - **Seasonal Decomposition** (`Sesonal.png`): Analyze trend, seasonality, and residuals using additive model (period=52 weeks)
-  ![Seasonal Decomposition](Sesonal.png)
+  ![Seasonal Decomposition](https://github.com/AKDAD9/Demand-Forecasting-/blob/main/Demand%20F/Sesonal.png?raw=true)
   
 - **Stationarity Test**: Augmented Dickey-Fuller test to check data stationarity
 
