@@ -42,7 +42,8 @@ This project implements a time series forecasting model to predict Walmart's wee
 
 ### 5. Forecasting Results
 - **Forecast vs Actual Comparison** (`Forecast.png`): Shows model predictions against actual sales data
-  ![Forecast Results](Forecast.png)
+  ![Forecast Results](<img width="1866" height="961" alt="image" src="https://github.com/user-attachments/assets/30701c2b-71ca-4ba1-8bc1-4cdb113e579b" />
+)
   
 - Generate 52-week ahead forecasts
 - Calculate 95% confidence intervals
